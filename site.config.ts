@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'XiaoQiang Lai',
-  domain: 'https://www.notion.so/phionax/My-Blog-8addd286714544268f5e20bb036306c3',
+  domain: 'https://www.laixiaoqiang.com',
   author: 'XiaoQiang',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Welcome to xiaoqiang lai's world',
 
   // social usernames (optional)
   twitter: 'phionax',
