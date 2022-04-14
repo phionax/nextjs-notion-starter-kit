@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'phionax',
   github: 'phionax',
-  linkedin: 'phionax',
+  linkedin: 'laixiaoqiang',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
