@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Welcome to xiaoqiang lai's world',
 
   // social usernames (optional)
-  twitter: 'phionax',
-  github: 'phionax',
-  linkedin: 'laixiaoqiang',
+  // twitter: 'phionax',
+  // github: 'phionax',
+  // linkedin: 'laixiaoqiang',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
